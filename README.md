@@ -2,7 +2,7 @@
 
 # YouTube Video Downloader and Converter
 
-![grabYT Demo](https://s12.gifyu.com/images/Sfp9a.gif)
+![grabYT Demo](https://github.com/torrrrrac/grabYT/blob/main/config/fin.gif)
 
 This Python script allows you to download YouTube videos in the highest available quality and convert them to various formats using different encoding options. It utilizes the `yt_dlp` library for downloading videos and supports conversion to MP4, MOV, MKV, and AVI formats.
 
